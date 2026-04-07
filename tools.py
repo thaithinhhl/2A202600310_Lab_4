@@ -77,7 +77,7 @@ def search_flight(origin: str, destination: str) -> str:
 @tool
 def search_hotels(city: str, max_price_per_night: int = 99_999_999) -> str:
     """
-    Tìm kiếm khách sạn tại một thành phố, có thể lọc theo giá tối đa mỗi đêm.
+    Tìm kiếm khách sạn tại một thành phố, có thể lọc được theo giá tối đa mỗi đêm.
     Tham số:
     - city: tên thành phố (VD: 'Đà Nẵng', 'Phú Quốc', 'Hồ Chí Minh')
     - max_price_per_night: giá tối đa mỗi đêm (VNĐ), mặc định không giới hạn

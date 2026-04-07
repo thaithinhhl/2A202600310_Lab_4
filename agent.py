@@ -49,7 +49,7 @@ builder.add_edge("tools", "agent")
 graph = builder.compile()
 
 if __name__ == "__main__":
-    print("TravelBuddy - Trợ lý Du lịch Thông minh")
+    print("TravelBuddy - Trợ lý Du lịch thông minh")
     while True:
         user_input = input("\nBạn: ").strip()
         if user_input.lower() in ("quit", "exit", "q"):

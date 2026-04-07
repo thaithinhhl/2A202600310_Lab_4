@@ -72,7 +72,7 @@ TravelBuddy: Dưới đây là thông tin tư vấn cho chuyến đi Phú Quốc
    - Giá: 1.500.000đ/đêm
    - Rating: 4.2
 
-### Tổng chi phí ước tính:
+### Tổng chi phí ước tính .
 
 - **Chuyến bay**: 
   - Chọn chuyến 10:00 → 12:15: 2.700.000đ
